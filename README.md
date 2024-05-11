@@ -16,3 +16,7 @@ O objetivo deste projeto é desenvolver um sistema de gestão de dados para um c
 
 ## Conclusão
 Em conclusão, o desenvolvimento de um sistema de gestão de dados utilizando UML para um centro escolar representa uma oportunidade significativa para melhorar a eficiência e a qualidade dos processos educacionais e administrativos. A utilização da UML como ferramenta de modelagem permite uma representação visual clara e precisa dos requisitos e funcionalidades do sistema, facilitando o entendimento e a comunicação entre os desenvolvedores e os usuários. Além disso, a modelagem adequada dos dados, por meio de diagramas de classes e casos de uso, contribui para a criação de um sistema robusto, adaptável e de fácil manutenção.
+
+
+## Link do Protótipo de Interface:
+https://marvelapp.com/prototype/10d1f8d4/screen/94600976?utm_campaign=sendgrid-sends&utm_content=backend-email-message&utm_medium=mail&utm_source=sendgrid
