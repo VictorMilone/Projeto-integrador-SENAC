@@ -1,7 +1,10 @@
 # PROJETO INTEGRADOR III: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+
 Este projeto visa desenvolver um sistema de gestão de dados para um centro escolar, utilizando a UML como ferramenta de modelagem. Por meio da criação de um diagrama de caso de uso, descrições detalhadas de casos de uso e um diagrama de classes, o sistema será projetado para gerenciar eficientemente informações sobre alunos, professores, disciplinas e matrículas. O objetivo é criar uma solução que seja fácil de usar, adaptável às necessidades da instituição e contribua para uma administração escolar mais eficiente e para a melhoria da qualidade do ensino.
 
-Introdução - Visão geral do produto O projeto feito pelo grupo foi consiste no processo de modelagem de projeto voltado a gestão de dados de um centro escolar utilizando os conhecimentos sobre UML. Neste tópico serão apresentados os seguintes subtópicos: Contextualização, motivação e objetivo.
+###Introdução
+
+Visão geral do produto O projeto feito pelo grupo foi consiste no processo de modelagem de projeto voltado a gestão de dados de um centro escolar utilizando os conhecimentos sobre UML. Neste tópico serão apresentados os seguintes subtópicos: Contextualização, motivação e objetivo.
 
 1.1. Contextualização e motivação
 Em um centro escolar, a gestão de dados desempenha um papel crucial na organização e na eficiência das operações acadêmicas e administrativas. Com o aumento da digitalização e da automação de processos, a quantidade de dados gerados e armazenados pelas escolas tem aumentado significativamente. Isso inclui informações sobre fornecedores, alunos, professores, disciplinas, notas, entre outros aspectos da vida escolar.
