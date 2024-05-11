@@ -20,3 +20,13 @@ Em conclusão, o desenvolvimento de um sistema de gestão de dados utilizando UM
 
 ## Link do Protótipo de Interface:
 https://marvelapp.com/prototype/10d1f8d4/screen/94600976?utm_campaign=sendgrid-sends&utm_content=backend-email-message&utm_medium=mail&utm_source=sendgrid
+
+## Diagrama de Classe
+
+![image](https://github.com/VictorMilone/Projeto-integrador-SENAC/assets/124219983/62703bc6-8d43-4921-aa33-9d46aed614f1)
+
+## Diagrama de Casos de Uso
+
+![image](https://github.com/VictorMilone/Projeto-integrador-SENAC/assets/124219983/07c1b5b2-9e4a-4bd7-b603-8edaa08e804b)
+
+
