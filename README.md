@@ -1,5 +1,13 @@
 # PROJETO INTEGRADOR III: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 
+Repositório é destinado ao Projeto Integrador III do SENAC e o grupo contém 6 integrantes:
+ * Fernando Fraguas Carneiro
+ * Jessica Silva Azevedo
+ * Kevin De Jesus Souza
+ * Rafael De Morais Lopes
+ * Romualdo Souza De Souza
+ * Victor Hugo Milone
+
 Este projeto visa desenvolver um sistema de gestão de dados para um centro escolar, utilizando a UML como ferramenta de modelagem. Por meio da criação de um diagrama de caso de uso, descrições detalhadas de casos de uso e um diagrama de classes, o sistema será projetado para gerenciar eficientemente informações sobre alunos, professores, disciplinas e matrículas. O objetivo é criar uma solução que seja fácil de usar, adaptável às necessidades da instituição e contribua para uma administração escolar mais eficiente e para a melhoria da qualidade do ensino.
 
 ## Introdução
